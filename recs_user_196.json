@@ -1,0 +1,47 @@
+[
+  {
+    "movie": "Star Wars (1977)",
+    "score": 57.929,
+    "reasons": [
+      "U403 rated 5.0 (sim 1.00)",
+      "U893 rated 5.0 (sim 1.00)",
+      "U831 rated 5.0 (sim 1.00)"
+    ]
+  },
+  {
+    "movie": "Jerry Maguire (1996)",
+    "score": 53.93,
+    "reasons": [
+      "U935 rated 5.0 (sim 1.00)",
+      "U403 rated 5.0 (sim 1.00)",
+      "U599 rated 5.0 (sim 1.00)"
+    ]
+  },
+  {
+    "movie": "Titanic (1997)",
+    "score": 52.904,
+    "reasons": [
+      "U935 rated 5.0 (sim 1.00)",
+      "U319 rated 5.0 (sim 1.00)",
+      "U584 rated 5.0 (sim 1.00)"
+    ]
+  },
+  {
+    "movie": "Fargo (1996)",
+    "score": 52.897,
+    "reasons": [
+      "U403 rated 5.0 (sim 1.00)",
+      "U581 rated 5.0 (sim 1.00)",
+      "U266 rated 5.0 (sim 1.00)"
+    ]
+  },
+  {
+    "movie": "Contact (1997)",
+    "score": 51.905,
+    "reasons": [
+      "U598 rated 5.0 (sim 1.00)",
+      "U841 rated 5.0 (sim 1.00)",
+      "U403 rated 4.0 (sim 1.00)"
+    ]
+  }
+]
